@@ -1,0 +1,47 @@
+*{margin: 0%;
+    padding: 0%;
+}
+body{display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+   
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+h2{
+    margin-top: 3rem;
+}
+button{
+    margin-top: 4rem;
+    max-height: 2rem;
+    font-size: 1.5rem;
+    max-height: fit-content;
+    display: flex;
+    justify-content: center;
+}
+span{margin-top: 2rem;
+font-size: 2rem;
+color: green;}
+input{font-size: 1rem;}
+
+form{
+    height: 600px;
+    width: 500px;
+    border: solid;
+    border-radius: 1rem;
+    padding-left: 5rem;
+     background-color:#66ffd9;
+     font-size: 1rem;
+    
+}
+
+input{
+    border-radius: 10%;
+    background-color: beige;
+}
