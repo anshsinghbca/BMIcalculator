@@ -4,6 +4,7 @@
 body{display: flex;
     justify-content: center;
     margin-top: 3rem;
+     background-color: #262a2f;
    
 }
 
@@ -24,19 +25,20 @@ button{
     max-height: fit-content;
     display: flex;
     justify-content: center;
+    border-radius: 10px;
 }
 span{margin-top: 2rem;
 font-size: 2rem;
-color: green;}
+color: red;}
 input{font-size: 1rem;}
 
 form{
-    height: 600px;
-    width: 500px;
+    height: 630px;
+    width: 450px;
     border: solid;
     border-radius: 1rem;
     padding-left: 5rem;
-     background-color:#66ffd9;
+     background-color:#afcebd;
      font-size: 1rem;
     
 }
@@ -44,4 +46,13 @@ form{
 input{
     border-radius: 10%;
     background-color: beige;
+    font-size: 1.2rem;
+}
+
+P{
+    font-size:1.2rem;
+}
+
+.result{
+    margin-top: 20px;
 }
